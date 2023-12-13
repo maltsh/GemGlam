@@ -1,0 +1,1804 @@
+.rectangle {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 3539px;
+}
+.rectangle1 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 800px;
+}
+.rectangle3 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 700px;
+}
+.rectangle4 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-plum);
+    height: 652px;
+}
+.rectangle5 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 472px;
+}
+.rectangle6 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 436px;
+}
+.rectangle9 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 24px;
+}
+.frame9 {
+    position: absolute;
+    width: 72.02%;
+    top: 0px;
+    right: 27.98%;
+    left: 0%;
+    height: 24px;
+}
+.frame8 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 208px;
+}
+.rectangle13 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 14px;
+}
+.about-us {
+    position: absolute;
+    width: 100%;
+    top: -3px;
+    left: 0%;
+    letter-spacing: 0.4px;
+    line-height: 20px;
+    text-transform: capitalize;
+    display: inline-block;
+}
+.frame13 {
+    position: absolute;
+    width: 35.03%;
+    top: 5px;
+    right: 64.97%;
+    left: 0%;
+    height: 14px;
+}
+.frame12 {
+    position: absolute;
+    width: 72.02%;
+    top: 139px;
+    right: 33.94%;
+    left: -5.96%;
+    height: 24px;
+}
+.frame14 {
+    position: absolute;
+    width: 72.02%;
+    top: 218px;
+    right: 33.94%;
+    left: -5.96%;
+    height: 24px;
+}
+.rectangle15 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 48px;
+}
+.rectangle16 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 38px;
+}
+.environment-social-responsibi {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0%;
+    letter-spacing: 0.4px;
+    line-height: 20px;
+    text-transform: capitalize;
+    display: inline-block;
+}
+.frame16 {
+    position: absolute;
+    width: 75.16%;
+    top: 5px;
+    right: 24.84%;
+    left: 0%;
+    height: 38px;
+}
+.frame15 {
+    position: absolute;
+    width: 72.02%;
+    top: 158px;
+    right: 33.94%;
+    left: -5.96%;
+    height: 48px;
+}
+.frame11 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 432px;
+}
+.frame10 {
+    position: absolute;
+    width: 100%;
+    top: 2px;
+    right: -42.2%;
+    left: 42.2%;
+    height: 436px;
+}
+.frame7 {
+    position: absolute;
+    width: 24.33%;
+    top: -15px;
+    right: 25.67%;
+    left: 50%;
+    height: 436px;
+}
+.frame17 {
+    position: absolute;
+    width: 24.33%;
+    top: 0px;
+    right: 0%;
+    left: 75.67%;
+    height: 436px;
+}
+.frame20 {
+    position: absolute;
+    width: 53.21%;
+    top: 125px;
+    right: -34.86%;
+    left: 81.65%;
+    height: 14px;
+}
+.frame22 {
+    position: absolute;
+    width: 49.04%;
+    top: 5px;
+    right: 50.96%;
+    left: 0%;
+    height: 14px;
+}
+.frame21 {
+    position: absolute;
+    width: 72.02%;
+    top: 200px;
+    right: -53.67%;
+    left: 81.65%;
+    height: 24px;
+    font-size: 11px;
+}
+.frame19 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 424px;
+}
+.frame18 {
+    position: absolute;
+    width: 24.33%;
+    top: 4px;
+    right: 75.67%;
+    left: 0%;
+    height: 436px;
+}
+.frame24 {
+    position: absolute;
+    width: 29.94%;
+    top: 5px;
+    right: 70.06%;
+    left: 0%;
+    height: 14px;
+}
+.frame23 {
+    position: absolute;
+    width: 17.52%;
+    top: 176px;
+    right: 62.39%;
+    left: 20.09%;
+    height: 24px;
+}
+.frame26 {
+    position: absolute;
+    width: 28.03%;
+    top: 5px;
+    right: 71.97%;
+    left: 0%;
+    height: 14px;
+}
+.frame25 {
+    position: absolute;
+    width: 17.52%;
+    top: 152px;
+    right: 62.39%;
+    left: 20.09%;
+    height: 24px;
+}
+.rectangle27 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 36px;
+}
+.policies {
+    position: absolute;
+    width: 77.52%;
+    top: -2px;
+    left: 0%;
+    letter-spacing: 0.48px;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame29 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: -58.72%;
+    left: 58.72%;
+    height: 36px;
+}
+.frame28 {
+    position: absolute;
+    width: 24.33%;
+    top: 2px;
+    right: 71.99%;
+    left: 3.68%;
+    height: 36px;
+}
+.our-brand {
+    position: absolute;
+    width: 77.52%;
+    top: -1px;
+    left: 0%;
+    letter-spacing: 0.48px;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame31 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 20px;
+}
+.frame30 {
+    position: absolute;
+    width: 24.33%;
+    top: 0px;
+    right: 19.75%;
+    left: 55.92%;
+    height: 36px;
+}
+.frame27 {
+    position: absolute;
+    width: 100%;
+    top: 68px;
+    right: -2.12%;
+    left: 2.12%;
+    height: 36px;
+    font-size: var(--font-size-base);
+}
+.frame6 {
+    position: absolute;
+    width: 100%;
+    top: 36px;
+    right: 0%;
+    left: 0%;
+    height: 436px;
+}
+.image-1-icon {
+    position: absolute;
+    top: 16px;
+    left: 335px;
+    width: 0px;
+    height: 0px;
+    object-fit: cover;
+}
+.frame5 {
+    position: absolute;
+    width: 74.67%;
+    top: 180px;
+    right: 11.08%;
+    left: 14.25%;
+    height: 472px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 43px);
+    letter-spacing: 1px;
+    line-height: 20px;
+    display: inline-block;
+    width: 36px;
+}
+.gemglam {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 79px);
+    font-size: var(--font-size-xs);
+    letter-spacing: 1px;
+    line-height: 20px;
+    display: inline-block;
+    width: 117px;
+}
+.frame32 {
+    position: absolute;
+    width: 100%;
+    top: 538px;
+    right: 0.92%;
+    left: -0.92%;
+    height: 20px;
+    text-align: center;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray-100);
+}
+.payfast4-removebg-preview-1-3-icon {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    width: 1046px;
+    height: 124px;
+    object-fit: cover;
+}
+.frame4 {
+    position: absolute;
+    width: 100%;
+    top: 24px;
+    right: 0%;
+    left: 0%;
+    height: 652px;
+}
+.untitled-design-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 60px;
+    object-fit: cover;
+}
+.frame3 {
+    position: absolute;
+    width: 100%;
+    top: 2839px;
+    right: 0%;
+    left: 0%;
+    height: 700px;
+}
+.rectangle35 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-dodgerblue);
+    height: 40px;
+}
+.rectangle36 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 40px;
+}
+.frame38 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 246px);
+    width: 65px;
+    height: 36px;
+}
+.frame39 {
+    position: absolute;
+    width: 4.28%;
+    top: 0px;
+    right: 52.79%;
+    left: 42.93%;
+    height: 36px;
+}
+.delivery1 {
+    position: absolute;
+    width: 52.1%;
+    top: 8px;
+    left: 1.68%;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame40 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 277px);
+    width: 119px;
+    height: 36px;
+    font-size: var(--font-size-smi);
+}
+.frame42 {
+    position: absolute;
+    width: 73.77%;
+    top: 0px;
+    right: 13.11%;
+    left: 13.11%;
+    height: 36px;
+}
+.frame41 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 450px);
+    width: 61px;
+    height: 68px;
+}
+.shop-all {
+    position: absolute;
+    width: 8.29%;
+    top: 8px;
+    left: 38.92%;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame45 {
+    position: absolute;
+    width: 78.38%;
+    top: 0px;
+    right: 10.81%;
+    left: 10.81%;
+    height: 36px;
+}
+.about-us1 {
+    position: absolute;
+    width: 133.33%;
+    top: 8px;
+    left: 11.59%;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame46 {
+    position: absolute;
+    width: 93.24%;
+    top: 0px;
+    right: 43.24%;
+    left: -36.49%;
+    height: 36px;
+}
+.frame44 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 23.5px);
+    width: 74px;
+    height: 36px;
+}
+.frame43 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 100px);
+    width: 79px;
+    height: 36px;
+}
+.frame47 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 298px);
+    width: 85px;
+    height: 36px;
+}
+.frame48 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 360px);
+    width: 72px;
+    height: 36px;
+}
+.frame37 {
+    position: absolute;
+    width: 100%;
+    top: 4px;
+    right: 1.75%;
+    left: -1.75%;
+    height: 36px;
+}
+.frame36 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 573px);
+    width: 1146px;
+    height: 40px;
+}
+.frame35 {
+    position: absolute;
+    width: 100%;
+    top: 186px;
+    right: 0%;
+    left: 0%;
+    height: 40px;
+}
+.rectangle49 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 60px;
+}
+.rectangle52 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-fuchsia);
+    height: 60px;
+}
+.rectangle53 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 28px;
+}
+.free-shipping {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 166px);
+    letter-spacing: 1px;
+    line-height: 14px;
+    display: inline-block;
+    width: 332px;
+}
+.frame54 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 166px);
+    width: 332px;
+    height: 28px;
+}
+.frame53 {
+    position: absolute;
+    top: calc(50% - 14px);
+    left: calc(50% - 192px);
+    width: 384px;
+    height: 28px;
+}
+.frame52 {
+    position: absolute;
+    width: 33.33%;
+    top: 0px;
+    right: 66.67%;
+    left: 0%;
+    height: 60px;
+}
+.worldwide {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 182px);
+    letter-spacing: 1px;
+    line-height: 14px;
+    display: inline-block;
+    width: 364px;
+}
+.frame57 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 182px);
+    width: 364px;
+    height: 28px;
+}
+.frame55 {
+    position: absolute;
+    width: 33.33%;
+    top: 0px;
+    right: 0%;
+    left: 66.67%;
+    height: 60px;
+}
+.rectangle58 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: #f8097c;
+    height: 60px;
+}
+.available {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 163.5px);
+    letter-spacing: 1px;
+    line-height: 14px;
+    display: inline-block;
+    width: 327px;
+}
+.frame60 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 163px);
+    width: 327px;
+    height: 28px;
+}
+.frame58 {
+    position: absolute;
+    width: 33.33%;
+    top: 0px;
+    right: 33.33%;
+    left: 33.33%;
+    height: 60px;
+    color: #f5f5f5;
+}
+.frame49 {
+    position: absolute;
+    width: 100%;
+    top: 44px;
+    right: 0%;
+    left: 0%;
+    height: 60px;
+    text-align: center;
+}
+.rectangle61 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-plum);
+    height: 82px;
+}
+.frame62 {
+    position: absolute;
+    width: 20.42%;
+    top: 27px;
+    right: 77.58%;
+    left: 2%;
+    height: 28px;
+}
+.frame-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 12.5px);
+    width: 25px;
+    height: 20px;
+    overflow: hidden;
+}
+.my-account {
+    position: absolute;
+    width: 296%;
+    top: -1px;
+    left: 96%;
+    line-height: 24px;
+    display: inline-block;
+}
+.frame66 {
+    position: absolute;
+    width: 23.36%;
+    top: 0px;
+    right: 76.64%;
+    left: 0%;
+    height: 20px;
+}
+.frame67 {
+    position: absolute;
+    width: 23.36%;
+    top: 0px;
+    right: 38.32%;
+    left: 38.32%;
+    height: 20px;
+}
+.frame68 {
+    position: absolute;
+    width: 23.36%;
+    top: 0px;
+    right: 0%;
+    left: 76.64%;
+    height: 20px;
+}
+.frame65 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 107px;
+    height: 20px;
+}
+.frame64 {
+    position: absolute;
+    width: 8.92%;
+    top: 31px;
+    right: 2%;
+    left: 89.08%;
+    height: 20px;
+}
+.rectangle71 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 50px;
+}
+.rectangle73 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    border-radius: var(--br-11xs);
+    background-color: var(--color-plum);
+    border: 1px solid #3f3a41;
+    box-sizing: border-box;
+    height: 50px;
+}
+.rectangle74 {
+    position: absolute;
+    width: 92.5%;
+    top: calc(50% - 10px);
+    right: 5.14%;
+    left: 2.36%;
+    background-color: var(--color-plum);
+    height: 20px;
+}
+.frame-icon1 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 10px);
+    width: 20px;
+    height: 16px;
+    overflow: hidden;
+}
+.frame75 {
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 12px);
+    right: 0%;
+    left: 0%;
+    height: 24px;
+}
+.frame74 {
+    position: absolute;
+    width: 2.78%;
+    top: calc(50% - 12px);
+    right: 2.36%;
+    left: 94.86%;
+    height: 24px;
+}
+.search {
+    position: absolute;
+    width: 7.78%;
+    top: calc(50% - 14px);
+    left: 2.36%;
+    line-height: 24px;
+    display: inline-block;
+}
+.frame72 {
+    position: absolute;
+    width: 90%;
+    top: 0px;
+    right: 5%;
+    left: 5%;
+    height: 50px;
+}
+.frame71 {
+    position: absolute;
+    width: 66.67%;
+    top: 16px;
+    right: 10.92%;
+    left: 22.42%;
+    height: 50px;
+    font-size: var(--font-size-sm);
+}
+.michelle-1-1 {
+    position: absolute;
+    top: 16px;
+    left: 0px;
+    width: 315px;
+    height: 101px;
+    object-fit: cover;
+}
+.frame61 {
+    position: absolute;
+    width: 100%;
+    top: 104px;
+    right: 0%;
+    left: 0%;
+    height: 82px;
+    font-size: var(--font-size-smi);
+    color: var(--color-darkslategray-100);
+}
+.frame34 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 205px;
+}
+.frame33 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 226px;
+}
+.rectangle77 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 2613px;
+}
+.rectangle80 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 413px;
+}
+.image-icon {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 413px;
+    object-fit: cover;
+}
+.image-icon1 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: -100%;
+    left: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 413px;
+    object-fit: cover;
+}
+.frame87 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: -200%;
+    left: 200%;
+    height: 413px;
+}
+.frame92 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: -100%;
+    left: 100%;
+    height: 413px;
+}
+.frame82 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 300%;
+    left: -300%;
+    height: 413px;
+}
+.untitled-design-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 432px;
+}
+.borcelle-jewelry-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 413px;
+    object-fit: cover;
+}
+.frame81 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 473px;
+    overflow: hidden;
+}
+.frame80 {
+    position: absolute;
+    width: 104.58%;
+    top: 0px;
+    right: -4.58%;
+    left: 0%;
+    height: 514px;
+}
+.frame79 {
+    position: absolute;
+    width: 100%;
+    top: 37px;
+    right: 0%;
+    left: 0%;
+    height: 413px;
+}
+.rectangle98 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 296px;
+}
+.rectangle103 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 44px;
+}
+.shop-now {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 37px);
+    line-height: 20px;
+    display: inline-block;
+    width: 74px;
+}
+.frame102 {
+    position: absolute;
+    width: 100%;
+    top: 252px;
+    right: 0%;
+    left: 0%;
+    height: 44px;
+}
+.icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 230px;
+    height: 252px;
+    object-fit: cover;
+}
+.frame100 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 495px);
+    width: 230px;
+    height: 296px;
+}
+.shop-now1 {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 38px);
+    line-height: 20px;
+    display: inline-block;
+    width: 74px;
+}
+.icon1 {
+    position: absolute;
+    top: 0px;
+    left: -1px;
+    width: 230px;
+    height: 252px;
+    object-fit: cover;
+}
+.frame103 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 241px);
+    width: 230px;
+    height: 296px;
+}
+.frame106 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 12px);
+    width: 230px;
+    height: 296px;
+}
+.frame109 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 266px);
+    width: 230px;
+    height: 296px;
+}
+.frame99 {
+    position: absolute;
+    width: 82.5%;
+    top: 0px;
+    right: 8.75%;
+    left: 8.75%;
+    height: 296px;
+}
+.frame97 {
+    position: absolute;
+    width: 100%;
+    top: 505px;
+    right: 0%;
+    left: 0%;
+    height: 296px;
+}
+.rectangle113 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 128px;
+}
+.frame112 {
+    position: absolute;
+    width: 100%;
+    top: 1145px;
+    right: 0%;
+    left: 0%;
+    height: 128px;
+    overflow: hidden;
+}
+.rectangle114 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 408px;
+}
+.rectangle116 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-dodgerblue);
+    height: 408px;
+}
+.rectangle117 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 280px;
+}
+.shop-all-1 {
+    position: absolute;
+    top: -95px;
+    left: -115.09px;
+    width: 1227px;
+    height: 447px;
+    object-fit: cover;
+}
+.frame116 {
+    position: absolute;
+    width: 82.5%;
+    top: 80px;
+    right: 8.75%;
+    left: 8.75%;
+    height: 280px;
+}
+.rectangle118 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 32px;
+}
+.frame117 {
+    position: absolute;
+    width: 100%;
+    top: 24px;
+    right: 0%;
+    left: 0%;
+    height: 32px;
+}
+.frame115 {
+    position: absolute;
+    width: 100.08%;
+    top: 0px;
+    right: -0.08%;
+    left: 0%;
+    height: 408px;
+}
+.frame114 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: -0.83%;
+    left: 0.83%;
+    height: 408px;
+}
+.frame113 {
+    position: absolute;
+    width: 100%;
+    top: 1273px;
+    right: 0%;
+    left: 0%;
+    height: 408px;
+}
+.rectangle119 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 388px;
+}
+.rectangle121 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-dodgerblue);
+    height: 388px;
+}
+.rectangle122 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 88px;
+}
+.shop-by-category {
+    position: absolute;
+    top: 31px;
+    left: calc(50% - 196px);
+    letter-spacing: 2.4px;
+    line-height: 32px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 391px;
+}
+.frame121 {
+    position: absolute;
+    width: 97.33%;
+    top: 0px;
+    right: 1.33%;
+    left: 1.33%;
+    height: 88px;
+}
+.rectangle123 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 268px;
+}
+.frame124 {
+    position: absolute;
+    width: 88.02%;
+    top: 0px;
+    right: 5.99%;
+    left: 5.99%;
+    height: 268px;
+}
+.frame123 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 501px);
+    width: 167px;
+    height: 268px;
+}
+.frame125 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 334px);
+    width: 167px;
+    height: 268px;
+}
+.frame126 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 167px);
+    width: 167px;
+    height: 268px;
+}
+.frame127 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 0px);
+    width: 167px;
+    height: 268px;
+}
+.icon4 {
+    position: absolute;
+    top: 7px;
+    left: 344px;
+    width: 172px;
+    height: 291px;
+    object-fit: cover;
+}
+.frame129 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 167px);
+    width: 167px;
+    height: 268px;
+}
+.frame130 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 334px);
+    width: 167px;
+    height: 268px;
+}
+.icon5 {
+    position: absolute;
+    top: 2px;
+    left: 913px;
+    width: 172px;
+    height: 291px;
+    object-fit: cover;
+}
+.icon6 {
+    position: absolute;
+    top: 4px;
+    left: 69px;
+    width: 181px;
+    height: 289px;
+    object-fit: cover;
+}
+.icon7 {
+    position: absolute;
+    top: 4px;
+    left: 610px;
+    width: 194px;
+    height: 294px;
+    object-fit: cover;
+}
+.frame122 {
+    position: absolute;
+    width: 97.33%;
+    top: 88px;
+    right: 1.33%;
+    left: 1.33%;
+    height: 268px;
+}
+.frame120 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 388px;
+    overflow: hidden;
+}
+.frame118 {
+    position: absolute;
+    width: 100%;
+    top: 757px;
+    right: 0%;
+    left: 0%;
+    height: 388px;
+    font-size: var(--font-size-5xl);
+}
+.rectangle133 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 931px;
+}
+.rectangle134 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 481px;
+}
+.rectangle135 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-darkmagenta);
+    height: 481px;
+}
+.rectangle136 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 297px;
+}
+.frame135 {
+    position: absolute;
+    width: 100%;
+    top: 128px;
+    right: 0%;
+    left: 0%;
+    height: 297px;
+}
+.friends-1-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1200px;
+    height: 594px;
+    object-fit: cover;
+}
+.frame134 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 481px;
+    overflow: hidden;
+}
+.frame133 {
+    position: absolute;
+    width: 100%;
+    top: 450px;
+    right: 0%;
+    left: 0%;
+    height: 481px;
+}
+.the-edit {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 110px);
+    letter-spacing: 2.4px;
+    line-height: 32px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 172px;
+}
+.frame140 {
+    position: absolute;
+    width: 100%;
+    top: 48px;
+    right: 0%;
+    left: 0%;
+    height: 32px;
+}
+.rectangle142 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 314px;
+}
+.frame143 {
+    position: absolute;
+    width: 3.85%;
+    top: 139px;
+    right: -5.21%;
+    left: 101.35%;
+    height: 36px;
+}
+.frame144 {
+    position: absolute;
+    width: 3.85%;
+    top: 139px;
+    right: 101.35%;
+    left: -5.21%;
+    height: 36px;
+}
+.rectangle146 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 290px;
+}
+.image-icon5 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 229px;
+    object-fit: cover;
+}
+.frame149 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 229px;
+}
+.rectangle153 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    border-radius: var(--br-11xs);
+    background-color: var(--color-plum);
+    height: 45px;
+}
+.shop-now4 {
+    position: absolute;
+    width: 31.98%;
+    top: 13px;
+    left: 34.23%;
+    letter-spacing: 0.42px;
+    line-height: 20px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.frame152 {
+    position: absolute;
+    width: 100%;
+    top: 237px;
+    right: 0%;
+    left: 0%;
+    height: 45px;
+}
+.frame148 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 282px;
+}
+.frame147 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: 51.25%;
+    left: 25.63%;
+    height: 290px;
+}
+.frame153 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: 0%;
+    left: 76.88%;
+    height: 290px;
+}
+.icon8 {
+    position: absolute;
+    top: 0px;
+    left: 38px;
+    width: 147px;
+    height: 232px;
+    object-fit: cover;
+}
+.frame159 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -51.25%;
+    left: 128.13%;
+    height: 290px;
+}
+.icon9 {
+    position: absolute;
+    top: 0px;
+    left: 37px;
+    width: 147px;
+    height: 232px;
+    object-fit: cover;
+}
+.frame162 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -102.5%;
+    left: 179.38%;
+    height: 290px;
+}
+.frame165 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -153.75%;
+    left: 230.63%;
+    height: 290px;
+}
+.frame171 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -205%;
+    left: 281.88%;
+    height: 290px;
+}
+.frame177 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -256.25%;
+    left: 333.13%;
+    height: 290px;
+}
+.frame183 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: 76.88%;
+    left: 0%;
+    height: 290px;
+}
+.frame189 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -25.62%;
+    left: 102.5%;
+    height: 290px;
+}
+.icon10 {
+    position: absolute;
+    top: 5px;
+    left: 53px;
+    width: 147px;
+    height: 232px;
+    object-fit: cover;
+}
+.frame195 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -76.87%;
+    left: 153.75%;
+    height: 290px;
+}
+.frame199 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -230.62%;
+    left: 307.5%;
+    height: 290px;
+}
+.frame205 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: 25.63%;
+    left: 51.25%;
+    height: 290px;
+}
+.icon11 {
+    position: absolute;
+    top: 0px;
+    left: 38px;
+    width: 143px;
+    height: 249px;
+    object-fit: cover;
+}
+.frame211 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -128.12%;
+    left: 205%;
+    height: 290px;
+}
+.frame214 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -179.37%;
+    left: 256.25%;
+    height: 290px;
+}
+.frame220 {
+    position: absolute;
+    width: 23.13%;
+    top: 0px;
+    right: -281.87%;
+    left: 358.75%;
+    height: 290px;
+}
+.frame146 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 128.13%;
+    left: -128.12%;
+    height: 290px;
+}
+.frame145 {
+    position: absolute;
+    width: 100%;
+    top: 24px;
+    right: 0%;
+    left: 0%;
+    height: 290px;
+    overflow: hidden;
+}
+.frame141 {
+    position: absolute;
+    width: 80%;
+    top: 104px;
+    right: 10%;
+    left: 10%;
+    height: 314px;
+    text-align: left;
+    font-size: var(--font-size-smi);
+    color: var(--color-black);
+}
+.frame139 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 450px;
+    overflow: hidden;
+}
+.frame137 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 450px;
+}
+.frame132 {
+    position: absolute;
+    width: 100%;
+    top: 1681px;
+    right: 0%;
+    left: 0%;
+    height: 931px;
+    font-size: var(--font-size-5xl);
+}
+.rectangle227 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 37px;
+}
+.rectangle229 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-darkmagenta);
+    height: 37px;
+}
+.rectangle230 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 21px;
+}
+.get-10-discount {
+    margin: 0;
+}
+.get-10-discount-container {
+    position: absolute;
+    top: calc(50% - 14.5px);
+    left: calc(50% - 346px);
+    letter-spacing: 1px;
+    line-height: 21px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 692px;
+}
+.frame229 {
+    position: absolute;
+    width: 98.67%;
+    top: calc(50% - 10.5px);
+    right: 0.67%;
+    left: 0.67%;
+    height: 21px;
+}
+.frame227 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 600px);
+    width: 1200px;
+    height: 37px;
+}
+.frame226 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 37px;
+    overflow: hidden;
+    color: var(--color-gray-100);
+}
+.frame76 {
+    position: absolute;
+    width: 100%;
+    top: 226px;
+    right: 0%;
+    left: 0%;
+    height: 2613px;
+    text-align: center;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray-100);
+}
+.rectangle231 {
+    position: absolute;
+    width: 0.08%;
+    top: 3538px;
+    right: 100%;
+    left: -0.08%;
+    height: 1px;
+}
+.frame {
+    position: relative;
+    background-color: var(--color-plum);
+    width: 100%;
+    height: 3539px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-100);
+    font-family: var(--font-roboto);
+}
+

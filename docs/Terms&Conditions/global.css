@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    line-height: normal;
+ }
+ 
+ 
+ :root {
+    
+    /* fonts */
+    --font-roboto: Roboto;
+    
+    /* font sizes */
+    --font-size-xs: 12px;
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+    
+    /* Colors */
+    --color-plum-100: #e7b4ff;
+    --color-darkslategray: #333;
+    --color-gray: #222;
+    
+ }
+ 

@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-roboto: Roboto;
+    
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-smi: 13px;
+    --font-size-5xl: 24px;
+    --font-size-xs: 12px;
+    --font-size-base: 16px;
+    
+    /* Colors */
+    --color-plum: #e3a7f8;
+    --color-gray-100: #222;
+    --color-darkmagenta: #930996;
+    --color-black: #000;
+    --color-darkslategray-100: #333;
+    --color-dodgerblue: #1e8bf0;
+    --color-fuchsia: #da30f5;
+    
+    /* Border radiuses */
+    --br-11xs: 2px;
+    
+}
