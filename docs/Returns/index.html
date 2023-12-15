@@ -2,9 +2,11 @@
 <html>
 <head>
   	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<meta name="viewport" content="initial-scale=1, width=device-width">
   	
   	
+	<link rel="icon" href="assets/image1.png" type="image/x-icon">
   	<link rel="stylesheet" href="./global.css" />
   	<link rel="stylesheet"  href="./index.css" />
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap" />
@@ -17,7 +19,7 @@
 	<header class="header">
 		<div class="logo">
 			<!-- Your logo image or text goes here -->
-			<a href="./LandingPage/index.html"><img src="assets/logo.png" alt="Logo" width="3000" height="2000"></a>
+			<a href="../index.html"><img src="assets/logo.png" alt="Logo" width="3000" height="2000"></a>
 		</div>
 		<div class="header-icons">
 			<a href="#" class="cart-icon"> <!-- Link to your cart page -->
@@ -76,12 +78,12 @@
               							<div class="frame6">
                 								<div class="rectangle18">
                 								</div>
-                								<div class="plt-marketplace">PLT Marketplace</div>
+                								<div class="plt-marketplace">GEMGLAM Marketplace</div>
               							</div>
               							<div class="frame7">
                 								<div class="rectangle18">
                 								</div>
-                								<div class="how-do-i">HOW DO I RETURN FROM EUROPE & HOW LONG DOES A RETURN TAKE?</div>
+                								<div class="how-do-i">HOW DO I RETURN FROM CPT  & HOW LONG DOES A RETURN TAKE?</div>
               							</div>
               							<div class="frame8">
                 								<div class="rectangle18">
@@ -117,7 +119,7 @@
               							<div class="frame14">
                 								<div class="rectangle18">
                 								</div>
-                								<div class="how-do-i2">HOW DO I RETURN - UK PAPERLESS RETURNS</div>
+                								<div class="how-do-i2">HOW DO I RETURN - CPT PAPERLESS RETURNS</div>
               							</div>
               							<div class="frame15">
                 								<div class="rectangle18">
@@ -201,7 +203,7 @@
               							<div class="frame32">
                 								<div class="rectangle41">
                 								</div>
-												<a href="./Delivery/index.html" class="delivery">DELIVERY</a>
+												<a href="../Delivery/index.html" class="delivery" style="color: black; text-decoration: none;">DELIVERY</a>
 											</div>
               							<div class="frame33">
                 								<div class="rectangle41">
@@ -211,7 +213,7 @@
                   									</div>
                 								</div>
               							</div>
-										  <a href="./ProductPage/index.html" class="shop-all">SHOP ALL</a>
+										  <a href="../ProductPage/index.html" class="shop-all" style="color: black; text-decoration: none;">SHOP ALL</a>
               							<div class="frame35">
                 								<div class="rectangle41">
                 								</div>
@@ -225,7 +227,7 @@
                   									<div class="frame38">
                     										<div class="rectangle41">
                     										</div>
-															<a href="./AboutUs/index.html" class="about-us">ABOUT US</a>
+															<a href="../AboutUs/index.html" class="about-us">ABOUT US</a>
 														</div>
                 								</div>
               							</div>
@@ -277,7 +279,7 @@
                     										<div class="frame51">
                       											<div class="rectangle63">
                       											</div>
-																  <a href="./AboutUs/index.html" class="terms-conditions">About Us</a>
+																<a href="../AboutUs/index.html" class="terms-conditions" style="color: black; text-decoration: none;">About Us</a>
 																</div>
                   									</div>
                   									<div class="frame52">
@@ -290,7 +292,7 @@
                     										<div class="frame54">
                       											<div class="rectangle66">
                       											</div>
-																  <a href="./Environment/index.html" class="environment-social-responsibi">Environment, Social Responsibility</a>
+																  <a href="../Environment/index.html" class="environment-social-responsibi" style="color: black; text-decoration: none;">Environment, Social Responsibility</a>
 																</div>
                   									</div>
                 								</div>
@@ -309,7 +311,7 @@
                 								<div class="frame58">
                   									<div class="rectangle63">
                   									</div>
-													  <a href="./Terms&Conditions/index.html" class="terms-conditions">Terms & Conditions</a>
+													<a href="../Terms&Conditions/index.html" class="terms-conditions" style="color: black; text-decoration: none;">Terms & Conditions</a>
 													</div>
                 								<div class="frame59">
                   									<div class="rectangle59">
@@ -317,7 +319,7 @@
                   									<div class="frame60">
                     										<div class="rectangle63">
                     										</div>
-															<a href="./PrivacyPolicy/index.html" class="terms-conditions">Privacy Policy</a>
+															<a href="../PrivacyPolicy/index.html" class="terms-conditions" style="color: black; text-decoration: none;">Privacy Policy</a>
 														</div>
                 								</div>
               							</div>
@@ -328,7 +330,7 @@
               							<div class="frame62">
                 								<div class="rectangle63">
                 								</div>
-												<a href="./Delivery/index.html" class="terms-conditions">Delivery</a>
+												<a href="../Delivery/index.html" class="terms-conditions" style="color: black; text-decoration: none;">Delivery</a>
 											</div>
             						</div>
             						<div class="frame63">
@@ -337,7 +339,7 @@
               							<div class="frame64">
                 								<div class="rectangle63">
                 								</div>
-												<a href="./Returns/index.html" class="terms-conditions">Returns</a>
+												<a href="../Returns/index.html" class="terms-conditions" style="color: black; text-decoration: none;">Returns</a>
 											</div>
             						</div>
             						<div class="frame65">
@@ -381,7 +383,38 @@
   	</div>
   	
   	
-  	
+	  <script>
+		// Select the element with the class 'cart-icon'
+		var cartIcon = document.querySelector('.cart-icon');
+		
+		// Attach a click event listener to the cart icon
+		cartIcon.addEventListener('click', function(event) {
+			// Check if the cart is empty
+			if (cartIsEmpty()) {
+				event.preventDefault(); // Prevent the default action (following the link)
+		
+				// Redirect to the empty cart page
+				window.location.href = "../EmptyCart/index.html";
+			}
+		});
+		
+		// Function to check if the cart is empty
+		function cartIsEmpty() {
+			// Replace this with your logic to check if the cart is empty
+			// For example, you might have a variable that tracks the number of items in the cart
+			var cartQuantity = getCartQuantity(); // Assuming you have a function to get the cart quantity
+		
+			// Check if the quantity is zero or any other condition based on your implementation
+			return cartQuantity === 0;
+		}
+		
+		// Example function to get the cart quantity (replace this with your own logic)
+		function getCartQuantity() {
+			// Replace this with your logic to retrieve the number of items in the cart
+			// For example, you might fetch it from a server or use a variable that tracks the quantity
+			return 0; // Assuming the cart is initially empty
+		}
+		</script>  	
   	
 </body>
 </html>
