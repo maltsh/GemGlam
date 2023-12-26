@@ -13,7 +13,22 @@
   	
 	  <title>Cart Page</title>
 
-	  
+<script>
+	  document.addEventListener('DOMContentLoaded', function () {
+		// Retrieve product information from localStorage
+		const cartProductTitle = localStorage.getItem('cartProductTitle');
+		const cartProductPrice = localStorage.getItem('cartProductPrice');
+	
+		// Update cart page with retrieved product information
+		if (cartProductTitle && cartProductPrice) {
+			document.getElementById('cartProductTitle').innerText = cartProductTitle;
+			document.getElementById('cartProductPrice').innerText = cartProductPrice;
+		}
+	
+		// Example: Continue with additional logic for the cart page, if needed
+	});
+</script>
+			  
 </head>
 <body>
 
@@ -111,8 +126,8 @@
 												<a href="../Delivery/index.html" class="returns" style="color: grey; text-decoration: none;">DELIVERY</a>
 											</div>
             						</div>
-            						<div class="product-title">PRODUCT TITLE</div>
-            						<div class="price">PRICE</div>
+									<div id="cartProductTitle">PRODUCT TITLE</div>
+									<div id="cartProductPrice">PRICE</div>
             						<div class="frame16">
               							<div class="elegance-meets-timeless">Elegance meets timeless beauty with our 'Radiant Rose' pendant. Crafted with intricate detail, this exquisite piece will adorn you with nature's grace, adding a touch of enchantment to your every moment.</div>
             						</div>
@@ -414,7 +429,7 @@
           					<div class="div5">2023</div>
           					<div class="gemglam">GemGlam ©</div>
         				</div>
-        				<img class="payfast4-removebg-preview-1-3-icon" alt="imageS" src="assets/imageS.png" style="margin-left: 65px;">
+        				<img class="payfast4-removebg-preview-1-3-icon" alt="imageS" src="assets/imageS.png" style="margin-left: 80px;">
         				
       			</div>
       			<img class="untitled-design-2" alt="imageT" src="assets/imageT.png" style="width: 100%; height: auto;">

@@ -5,7 +5,7 @@
     padding: 10px 20px; /* Adjust padding as needed */
     background-color: #e7b4ff; /* Replace with your header background color */
  }
- 
+
  .logo {
     flex: 1; /* Allow logo to take available space */
     text-align: center; /* Center the logo */
@@ -31,6 +31,14 @@
     height: auto;
  }
  
+ body {
+    display: block;
+    justify-content: initial;
+    align-items: initial;
+    height: initial;
+    margin: initial;
+}
+
 .rectangle {
     position: absolute;
     width: 100%;
@@ -1632,6 +1640,7 @@
     left: 0%;
     background-color: #da30f5;
     height: 37px;
+    margin: 100%;
 }
 .rectangle258 {
     position: absolute;

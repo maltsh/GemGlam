@@ -573,6 +573,7 @@
     left: 0%;
     background-color: #da30f5;
     height: 37px;
+    margin: 100%;
 }
 .rectangle40 {
     position: absolute;
@@ -627,6 +628,7 @@
     left: 0%;
     background-color: #1e8bf0;
     height: 40px;
+    margin: 2px;
 }
 .rectangle42 {
     position: absolute;

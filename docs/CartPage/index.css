@@ -261,6 +261,7 @@
     left: 0%;
     background-color: var(--color-whitesmoke-200);
     height: 37px;
+    margin: 100%;
  }
  .off-on-everything {
     position: absolute;
@@ -704,6 +705,7 @@
     left: 0%;
     background-color: #da30f5;
     height: 37px;
+    margin: 100%
  }
  .rectangle25 {
     position: absolute;

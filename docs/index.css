@@ -1112,8 +1112,8 @@
     position: absolute;
     width: 100%;
     top: 0px;
-    right: 0%;
-    left: 0%;
+    right: 90%;
+    left: 90%;
     height: 280px;
 }
 .shop-all-1 {
@@ -1722,8 +1722,9 @@
     top: 0px;
     right: 0%;
     left: 0%;
-    background-color: var(--color-darkmagenta);
+    background-color: var(--color-plum);
     height: 37px;
+    margin: 100%;
 }
 .rectangle230 {
     position: absolute;
