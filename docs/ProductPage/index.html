@@ -469,7 +469,7 @@
                               															</div>
                             														</div>
                           													</div>
-                          													<a href="../CartPage/index.html" class="icon11"><img id="imageM" class="icon11" data-title="RadiantRopes" data-price="15.00" src="assets/imageM.png" alt="imageM"></a>
+                          													<a href="../CartPage/index.html" class="icon11" style="margin-top: -25px;"><img id="imageM" class="icon11" data-title="RadiantRopes" data-price="15.00" src="assets/imageM.png" alt="imageM"></a>
                         												</div>
                         												<div class="frame87">
                           													<div class="rectangle13">
@@ -876,7 +876,7 @@
                             														</div>
                           													</div>
                         												</div>
-                        												<img class="get-yours-below-1" alt="imageY" src="assets/imageY.png" style="margin-left: 55px;">
+                        												<img class="get-yours-below-1" alt="imageY" src="assets/imageY.png" style="width: 1700px; height: 580px; display: block; margin-left: -80px;">
                         												
                       											</div>
                       											<div class="frame165">
@@ -885,7 +885,7 @@
                         												<div class="rectangle18">
                           													<div class="rectangle18">
                           													</div>
-                          													<img class="get-it-all-1" alt="imageZ" src="assets/imageZ.png" style="margin-left: 90px;">
+                          													<img class="get-it-all-1" alt="imageZ" src="assets/imageZ.png" style="width: 1800px; height: 450px; display: block; margin-left: -70px; margin-top: -150px;">
                           													
                         												</div>
                       											</div>
@@ -1192,7 +1192,7 @@
                     										<div class="div25">2023</div>
                     										<div class="gemglam">GemGlam ©</div>
                   									</div>
-                  									<img class="payfast4-removebg-preview-1-3-icon" alt="imageAB" src="assets/imageAB.png" style="margin-left: 80px;">
+                  									<img class="payfast4-removebg-preview-1-3-icon" alt="imageAB" src="assets/imageAB.png" style="margin-left: 220px; margin-top: 20px;">
                   									
                 								</div>
                 								<img class="untitled-design-2" alt="imageAC" src="assets/imageAC.png" style="width: 100%; height: auto; margin-left: -1px;">
@@ -1716,39 +1716,6 @@
     		</div>
   	</div>
   	
-  	
-	  <script>
-		// Select the element with the class 'cart-icon'
-		var cartIcon = document.querySelector('.cart-icon');
-		
-		// Attach a click event listener to the cart icon
-		cartIcon.addEventListener('click', function(event) {
-			// Check if the cart is empty
-			if (cartIsEmpty()) {
-				event.preventDefault(); // Prevent the default action (following the link)
-		
-				// Redirect to the empty cart page
-				window.location.href = "../EmptyCart/index.html";
-			}
-		});
-		
-		// Function to check if the cart is empty
-		function cartIsEmpty() {
-			// Replace this with your logic to check if the cart is empty
-			// For example, you might have a variable that tracks the number of items in the cart
-			var cartQuantity = getCartQuantity(); // Assuming you have a function to get the cart quantity
-		
-			// Check if the quantity is zero or any other condition based on your implementation
-			return cartQuantity === 0;
-		}
-		
-		// Example function to get the cart quantity (replace this with your own logic)
-		function getCartQuantity() {
-			// Replace this with your logic to retrieve the number of items in the cart
-			// For example, you might fetch it from a server or use a variable that tracks the quantity
-			return 0; // Assuming the cart is initially empty
-		}
-		</script>  	
   	
 </body>
 </html>
