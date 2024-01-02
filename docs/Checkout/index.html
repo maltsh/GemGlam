@@ -445,7 +445,7 @@
                         												<div class="x">x</div>
                         												<div class="div2">1</div>
                       											</div>
-																<div id="checkoutProductPrice" class="div3">$15.00</div>
+																<p><span id="checkout-price-1" class="div3">$15.00</span></p>
                     										</div>
                     										<div class="frame108">
                     										</div>
@@ -478,14 +478,14 @@
                   									<div class="frame116">
                     										<div class="frame117">
                       											<div class="subtotal">Subtotal</div>
-																  <div id="checkoutSubtotal" class="div4">$20.00</div>
+																  <p><span id="checkout-price-2" class="div4">$20.00</span></p>
                     										</div>
                     										<div class="frame118">
                     										</div>
                     										<div class="frame119">
                       											<div class="total">Total</div>
                       											<div class="frame120">
-																	<div id="checkoutTotal" class="div5">$25.00</div>
+																	<p><span id="checkout-price-3" class="div5">$25.00</span></p>
                       											</div>
                     										</div>
                   									</div>
@@ -568,40 +568,20 @@
     		</div>
   	</div>
   	
-  	
- 
+
 	  <script>
-		// Select the element with the class 'cart-icon'
-		var cartIcon = document.querySelector('.cart-icon');
-		
-		// Attach a click event listener to the cart icon
-		cartIcon.addEventListener('click', function(event) {
-			// Check if the cart is empty
-			if (cartIsEmpty()) {
-				event.preventDefault(); // Prevent the default action (following the link)
-		
-				// Redirect to the empty cart page
-				window.location.href = "../EmptyCart/index.html";
-			}
-		});
-		
-		// Function to check if the cart is empty
-		function cartIsEmpty() {
-			// Replace this with your logic to check if the cart is empty
-			// For example, you might have a variable that tracks the number of items in the cart
-			var cartQuantity = getCartQuantity(); // Assuming you have a function to get the cart quantity
-		
-			// Check if the quantity is zero or any other condition based on your implementation
-			return cartQuantity === 0;
+		// Function to update checkout prices based on the selected product price
+		function updateCheckoutPrice(price) {
+		  document.getElementById('checkout-price-1').innerText = price;
+		  document.getElementById('checkout-price-2').innerText = price;
+		  document.getElementById('checkout-price-3').innerText = price;
 		}
-		
-		// Example function to get the cart quantity (replace this with your own logic)
-		function getCartQuantity() {
-			// Replace this with your logic to retrieve the number of items in the cart
-			// For example, you might fetch it from a server or use a variable that tracks the quantity
-			return 0; // Assuming the cart is initially empty
-		}
-		</script>
+	
+		// Example: Call this function with the selected product price
+		// You can call this function when "Bag It Now" is clicked on the cart page
+		// Replace '15.00' with the actual selected product price
+		updateCheckoutPrice('cartProductPrice');
+	  </script>	
   	
 </body>
 </html>

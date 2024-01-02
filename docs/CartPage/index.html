@@ -73,11 +73,10 @@
                 								
                 								<img class="image-icon9" alt="imageJ" src="assets/imageJ.png">
 
-												<img class="untitled-design-6-1" alt="imageK" src="assets/imageK.png">
+												<img class="untitled-design-6-1"  id="cartImage" alt="imageK" src="assets/imageK.png">
                 								
               							</div>
             						</div>
-            						<div class="share">Share</div>
           					</div>
           					<div class="frame7">
             						<div class="frame8">
@@ -85,18 +84,18 @@
                 								<div class="frame10">
                   									<div class="rectangle1">
                   									</div>
-                  									<div class="add-to-bag" style="margin-left: -20px;">ADD TO</div>
-													<div class="add-to-bag" style="margin-left: 35px;">BAG</div>
+==													<a href="../Checkout/index.html" onclick="updateCheckout()"class="add-to-bag" style="color: gray; text-decoration: none; margin-left: -50px;">BAG IT</a>
+													<a href="../Checkout/index.html" onclick="updateCheckout()" class="add-to-bag" style="color: gray; text-decoration: none; margin-left: 35pxpx;">NOW</a>
                 								</div>
                 								<div class="rectangle2">
                 								</div>
-                								<div class="div" style="margin-left: 68px;">1</div>
-              							</div>
+												<div id="cartQuantity" class="div"style="margin-left: 68px;">1</div>
+												</div>
             						</div>
             						<div class="frame11">
               							<div class="rectangle3">
               							</div>
-              							<div class="off-on-everything">10% OFF ON EVERYTHING* CODE: GET10 - ENDS TOMORROW</div>
+              							<div class="off-on-everything" style="margin-left: -50px;">10% OFF ON EVERYTHING* CODE: GET10 - ENDS TOMORROW</div>
             						</div>
             						<div class="rectangle4">
             						</div>
@@ -126,7 +125,7 @@
 												<a href="../Delivery/index.html" class="returns" style="color: grey; text-decoration: none;">DELIVERY</a>
 											</div>
             						</div>
-									<div id="cartProductTitle">PRODUCT TITLE</div>
+									<div id="cartProductId">PRODUCT TITLE</div>
 									<div id="cartProductPrice">PRICE</div>
             						<div class="frame16">
               							<div class="elegance-meets-timeless">Elegance meets timeless beauty with our 'Radiant Rose' pendant. Crafted with intricate detail, this exquisite piece will adorn you with nature's grace, adding a touch of enchantment to your every moment.</div>
@@ -134,7 +133,7 @@
             						<div class="frame17">
               							<div class="rectangle12">
               							</div>
-										  <a href="../Checkout/index.html" class="proceed-to-checkout" style="color: black; text-decoration: none;">PROCEED TO CHECKOUT</a>
+										<a href="../Checkout/index.html" onclick="updateCheckout()"class="proceed-to-checkout" style="color: black; text-decoration: none;">PROCEED TO CHECKOUT</a>
 										</div>
           					</div>
         				</div>
@@ -439,38 +438,62 @@
   	
  
 	  <script>
-		// Select the element with the class 'cart-icon'
-		var cartIcon = document.querySelector('.cart-icon');
+		// Retrieve the selected image from local storage
+		const cartImageSrc = localStorage.getItem('cartImage');
 		
-		// Attach a click event listener to the cart icon
-		cartIcon.addEventListener('click', function(event) {
-			// Check if the cart is empty
-			if (cartIsEmpty()) {
-				event.preventDefault(); // Prevent the default action (following the link)
-		
-				// Redirect to the empty cart page
-				window.location.href = "../EmptyCart/index.html";
-			}
-		});
-		
-		// Function to check if the cart is empty
-		function cartIsEmpty() {
-			// Replace this with your logic to check if the cart is empty
-			// For example, you might have a variable that tracks the number of items in the cart
-			var cartQuantity = getCartQuantity(); // Assuming you have a function to get the cart quantity
-		
-			// Check if the quantity is zero or any other condition based on your implementation
-			return cartQuantity === 0;
+		// Update the cart image source
+		if (cartImageSrc) {
+		  document.getElementById('cartImage').src = cartImageSrc;
 		}
-		
-		// Example function to get the cart quantity (replace this with your own logic)
-		function getCartQuantity() {
-			// Replace this with your logic to retrieve the number of items in the cart
-			// For example, you might fetch it from a server or use a variable that tracks the quantity
-			return 0; // Assuming the cart is initially empty
-		}
-		</script>
-  	
+
+    const cartProductId = localStorage.getItem('cartProductId');
+    
+    // Update the cart image source and product ID
+    if (cartImageSrc && cartProductId) {
+      document.getElementById('cartImage').src = cartImageSrc;
+      document.getElementById('cartProductId').innerText = cartProductId;
+    }
+
+	// Retrieve the selected image, product ID, and product price from local storage
+    const cartProductPrice = localStorage.getItem('cartProductPrice');
+    
+    // Update the cart image source, product ID, and product price
+    if (cartImageSrc && cartProductId && cartProductPrice) {
+      document.getElementById('cartImage').src = cartImageSrc;
+      document.getElementById('cartProductId').innerText = cartProductId;
+      document.getElementById('cartProductPrice').innerText = cartProductPrice;
+    }
+	
+    let cartQuantity = localStorage.getItem('cartQuantity');
+
+    // Update the cart image source, product ID, product price, and quantity
+    if (cartImageSrc && cartProductId && cartProductPrice && cartQuantity) {
+      document.getElementById('cartImage').src = cartImageSrc;
+      document.getElementById('cartProductId').innerText = cartProductId;
+      document.getElementById('cartProductPrice').innerText = cartProductPrice;
+      document.getElementById('cartQuantity').innerText = cartQuantity;
+    }
+
+    function incrementQuantity() {
+      // Increment the quantity and update the displayed value
+      cartQuantity = parseInt(cartQuantity) + 1;
+      document.getElementById('cartQuantity').innerText = cartQuantity;
+    }
+
+    function updateCheckout() {
+      // Update the placeholder prices on the checkout page with the current product price
+      // Update the placeholder prices on the checkout page with the current product price
+      const checkoutPrices = document.querySelectorAll('.checkout-price');
+      
+      checkoutPrices.forEach((priceElement) => {
+        priceElement.innerText = cartProductPrice;
+      });
+      
+      alert('Checkout prices updated!');
+    }
+
+    
+	  </script>
 
 	
 </body>
