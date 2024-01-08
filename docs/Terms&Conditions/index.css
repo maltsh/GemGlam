@@ -223,6 +223,11 @@
     text-transform: uppercase;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .delivery {
+       left: -170px;
+   }
+}
  .frame15 {
     position: absolute;
     top: 0px;
@@ -255,6 +260,7 @@
     text-transform: uppercase;
     display: inline-block;
  }
+
  .frame20 {
     position: absolute;
     width: 78.38%;
@@ -272,6 +278,11 @@
     text-transform: uppercase;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .about-us {
+       left: -70px;
+   }
+}
  .frame21 {
     position: absolute;
     width: 93.24%;

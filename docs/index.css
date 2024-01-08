@@ -90,6 +90,11 @@
     text-transform: capitalize;
     display: inline-block;
 }
+@media (max-width: 767px) {
+    .about-us {
+        left: -10px;
+    }
+ }
 .frame13 {
     position: absolute;
     width: 35.03%;
@@ -330,6 +335,11 @@
     height: 36px;
     font-size: var(--font-size-base);
 }
+@media (max-width: 767px) {
+    .frame27 {
+        left: -5px;
+    }
+ }
 .frame6 {
     position: absolute;
     width: 100%;
@@ -457,6 +467,11 @@
     text-transform: uppercase;
     display: inline-block;
 }
+@media (max-width: 767px) {
+    .delivery1 {
+        left: -170px;
+    }
+ }
 .frame40 {
     position: absolute;
     top: 0px;
@@ -506,6 +521,11 @@
     text-transform: uppercase;
     display: inline-block;
 }
+@media (max-width: 767px) {
+    .about-us1 {
+        left: -70px;
+    }
+ }
 .frame46 {
     position: absolute;
     width: 93.24%;
@@ -713,6 +733,11 @@
     height: 20px;
     overflow: hidden;
 }
+@media (max-width: 767px) {
+    .frame-icon {
+        left: 20px;
+    }
+ }
 .my-account {
     position: absolute;
     width: 296%;
@@ -768,6 +793,14 @@
     left: 0%;
     height: 50px;
 }
+@media (max-width: 767px) {
+    .rectangle71 {
+        width: 40%;
+        height: 20%;
+        top: 10px;
+        left: 180px;
+    }
+ }
 .rectangle73 {
     position: absolute;
     width: 100%;
@@ -797,6 +830,12 @@
     height: 16px;
     overflow: hidden;
 }
+@media (max-width: 767px) {
+    .frame-icon1 {
+        top: 20px;
+        left: -30px;
+    }
+ }
 .frame75 {
     position: absolute;
     width: 100%;
@@ -821,6 +860,11 @@
     line-height: 24px;
     display: inline-block;
 }
+@media (max-width: 767px) {
+    .search {
+        top: 10px;
+    }
+ }
 .frame72 {
     position: absolute;
     width: 90%;
@@ -846,6 +890,17 @@
     height: 101px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .michelle-1-1 {
+        width: fit-content;
+        left: -105px;
+    }
+ }
+ @media (max-width: 767px) {
+    .michelle-1-1 {
+        top: -2.5px;
+    }
+ }
 .frame61 {
     position: absolute;
     width: 100%;
@@ -1014,6 +1069,14 @@
     height: 252px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon {
+        top: -330px;
+        width: 140px;
+        height: 40px;
+        left: 0px;
+    }
+ }
 .frame100 {
     position: absolute;
     top: 0px;
@@ -1037,6 +1100,14 @@
     height: 252px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon1 {
+        top: -330px;
+        width: 140px;
+        height: 40px;
+        left: 86px;
+    }
+ }
 .frame103 {
     position: absolute;
     top: 0px;
@@ -1124,6 +1195,11 @@
     height: 447px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .shop-all-1 {
+        left: -80px;
+    }
+ }
 .frame116 {
     position: absolute;
     width: 82.5%;
@@ -1297,6 +1373,11 @@
     height: 289px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon6 {
+        left: 16px;
+    }
+ }
 .icon7 {
     position: absolute;
     top: 4px;
@@ -1407,6 +1488,11 @@
     display: inline-block;
     width: 172px;
 }
+@media (max-width: 767px) {
+    .the-edit {
+        left: 100px;
+    }
+ }
 .frame140 {
     position: absolute;
     width: 100%;
@@ -1458,6 +1544,12 @@
     height: 229px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .image-icon5 {
+        left: -40px;
+        width: 150px;
+    }
+ }
 .frame149 {
     position: absolute;
     width: 100%;
@@ -1526,6 +1618,13 @@
     height: 232px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon8 {
+        left: -40px;
+        width: 150px;
+        height: 84%;
+    }
+ }
 .frame159 {
     position: absolute;
     width: 23.13%;
@@ -1598,6 +1697,13 @@
     height: 232px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon10 {
+        left: 0px;
+        width: 78px;
+        height: 100%;
+    }
+ }
 .frame195 {
     position: absolute;
     width: 23.13%;
@@ -1630,6 +1736,12 @@
     height: 249px;
     object-fit: cover;
 }
+@media (max-width: 767px) {
+    .icon11 {
+        left: 0px;
+        width: 150px;
+    }
+ }
 .frame211 {
     position: absolute;
     width: 23.13%;
@@ -1737,6 +1849,11 @@
 .get-10-discount {
     margin: 0;
 }
+@media (max-width: 767px) {
+    .get-10-discount {
+        font-size: 80%;
+    }
+ }
 .get-10-discount-container {
     position: absolute;
     top: calc(50% - 14.5px);
@@ -1747,6 +1864,11 @@
     display: inline-block;
     width: 692px;
 }
+@media (max-width: 767px) {
+    .get-10-discount-container {
+        top: 3px;
+    }
+ }
 .frame229 {
     position: absolute;
     width: 98.67%;
