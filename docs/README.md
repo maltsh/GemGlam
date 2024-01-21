@@ -1,6 +1,6 @@
 # GemGlam
  
-###  You are looking of website <span>Bath and Body Works Clone<span>
+[###  You are looking of website <span>Bath and Body Works Clone<span>
 
  <h2>Welcome to this repo</h2>
  We are team of 6 members has completed the task in 4 days and Given our 
@@ -71,3 +71,4 @@ we really enjoyed this whole part of developing and had a learing experience and
 - **[Dheeraj]**
 
 ---
+](https://github.com/SagarN21/LifeStyle_Stores_Clone)https://github.com/SagarN21/LifeStyle_Stores_Clone
