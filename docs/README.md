@@ -1,83 +1,29 @@
-# GemGlam
- 
-# 🛍️ Introducing StyleZilla.com.
+# GemGlam Website
 
-![StyleZilla](https://user-images.githubusercontent.com/112753481/233224008-2a5b997a-9dee-4b86-9848-74a9741ccf0a.png)
+Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a variety of exquisite jewelry products, offering users a seamless shopping experience. Explore our collection and enjoy a fully responsive design for optimal display across different devices.
 
-# 🛍️What is StyleZilla.com?
+## Pages
 
-Project: make a clone of Lifestylestores website.
+### Landing Page
+- 🌐 The landing page is crafted to fit content to various screens, providing an attractive introduction to our stunning jewelry collection.
 
-Original-Website: https://www.lifestylestores.com/in/en
+### Product Page
+- 💍 The product page features a dazzling array of jewelry items. Click on each product image to start shopping.
 
-Cloned-Website: https://stylezillajs201.netlify.app/
+### Cart Page
+- 🛒 The cart page allows you to view and manage selected items. Easily proceed to checkout for a hassle-free purchasing process.
 
-This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, sunglasses, shoes etc.
-In this project we have tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With our efforts and the technology stack, that we have learned till now in Unit-2 in the masai school, we were able to clone the whole website with same looking & features.
+## Header Design
 
-# 🛍️Techstack Used :-
+- 🎨 The header boasts an elegant logo centered for a consistent and professional appearance.
+- 🛒💼 Icons for the shopping cart and user login on the right side of the header enhance user accessibility - under construction.
 
-## Frontend :-
+## Responsive Design
 
-| HTML                                                                                                                           | CSS                                                                                                                            | JavaScript                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <img width="75px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> | <img width="75px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> | <img width="70px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> |
+- 📱 The landing page, product, and cart pages are fully responsive, adapting seamlessly to various screen sizes for an enjoyable user experience.
 
-## Backend :-
+## How to Use
 
-> ### Local Storage
->
-> ### Mock API
-
-# 🛍️Snapshots :camera:
-
-- Landing page (Home page)
-  ![HomePageX](https://user-images.githubusercontent.com/112753481/233257037-8671b675-6ea0-44f1-868f-b2c9d00bfd89.png)
-
-- Product page :-
-  ![Productspage](https://user-images.githubusercontent.com/112753481/233241344-ae398ed0-614e-4078-a9e1-ed304618584d.png)
-
-- Womens Page :-
-  ![Womens](https://user-images.githubusercontent.com/112753481/233241181-67272736-64c0-4199-a020-d277a742da40.png)
-
-- Mens Page :-
-  ![Mens](https://user-images.githubusercontent.com/112753481/233241218-e95fe2c4-656d-4421-93e9-0495e28b4482.png)
-  ![products](https://user-images.githubusercontent.com/112753481/233241793-e1f53c1d-9fa1-44fc-979e-8580e251add7.jpg)
-
-- Basket page
-
-![BasketPage](https://user-images.githubusercontent.com/112753481/233241585-228e0dc7-faa5-42b2-9f21-9f7ae19f5353.png)
-
-- Signin page
-  ![signup](https://user-images.githubusercontent.com/112753481/233241690-378c2578-4174-4ea9-bb2d-2a03f76c4884.jpg)
-
-- Checkout Page
-  ![CheckoutPage](https://user-images.githubusercontent.com/112753481/233242027-26f6b043-baa8-48d1-a0c8-82585b92f47e.png)
-
-- Payment Page
-  ![PaymentPage](https://user-images.githubusercontent.com/112753481/233242041-eb293009-1212-489c-a352-1aa71d39ab12.png)
-
-- Admin page
-  ![admin signup](https://user-images.githubusercontent.com/112753481/233241672-93ebb94b-df17-47c1-9192-a6b7300dd2c8.jpg)
-  ![Admin portal](https://user-images.githubusercontent.com/112753481/233241680-c0af33db-7721-4586-b3cd-c5d25753a6f1.jpg)
-- Admin Edit Product:-
-  ![edit product](https://user-images.githubusercontent.com/112753481/233241720-c3978118-df53-482c-9bf1-bded0532fec6.jpg)
-
-## 🛍️How to run the Project
-
-- Open pages directory.
-- Open index.html using live server.
-
-## 🛍️End Notes :bookmark_tabs:
-
-In this project we were tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence. Most of the features are added and functionality of the website is achieved.
-
-### For Educational And Learning Purpose\*
-
-## 🛍️Limitations
-
-## All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
-
----
-
-# <p align="center">Thankyou for your Time💝</p>
+1. **Clone Repository:**
+   ```bash
+   git clone https://github.com/your-username/jewelry-store.git
