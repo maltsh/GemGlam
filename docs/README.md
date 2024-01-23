@@ -9,8 +9,6 @@ Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a vari
 ![Landing Page](assets/home.png)
 ![Landing Page](assets/home1.png)
 ![Landing Page](assets/home2.png)
-![Landing Page](assets/home3.png)
-
 
 ### Product Page
 - 💍 The product page features a dazzling array of jewelry items. Click on each product image to start shopping.
@@ -21,10 +19,8 @@ Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a vari
 
 ### Cart Page
 - 🛒 The cart page allows you to view and manage selected items. Easily proceed to checkout for a hassle-free purchasing process.
-![Cart Page](assets/cart.png)
 ![Cart Page](assets/cart1.png)
-![Cart Page](assets/cart2.png)
-![Cart Page](assets/cart3.png)
+
 
 ## Header Design
 
