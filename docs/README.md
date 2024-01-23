@@ -26,4 +26,4 @@ Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a vari
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/jewelry-store.git
+   git clone https://github.com/maltsh/GemGlam.git
