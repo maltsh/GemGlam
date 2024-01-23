@@ -9,6 +9,7 @@ Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a vari
 ![Landing Page](assets/home.png)
 ![Landing Page](assets/home1.png)
 ![Landing Page](assets/home2.png)
+![Landing Page](assets/home3.png)
 
 ### Product Page
 - 💍 The product page features a dazzling array of jewelry items. Click on each product image to start shopping.
