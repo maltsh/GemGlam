@@ -32,8 +32,19 @@ Welcome to our jewelry store GemGlam website! 🛍️ This site showcases a vari
 
 - 📱 The landing page, product, and cart pages are fully responsive, adapting seamlessly to various screen sizes for an enjoyable user experience.
 
+
 ## How to Use
 
 1. **Clone Repository:**
    ```bash
    git clone https://github.com/maltsh/GemGlam.git
+
+## License 📄
+
+This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Show Your Support ⭐
+
+If you find this project useful, consider giving it a star on GitHub. It's a small gesture that means a lot!
+
+⭐ [Star this Repository](https://github.com/maltsh/Portfolio)
